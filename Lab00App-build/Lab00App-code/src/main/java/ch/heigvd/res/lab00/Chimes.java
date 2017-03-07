@@ -5,7 +5,7 @@ package ch.heigvd.res.lab00;
  */
 public class Chimes implements IInstrument
 {
-   private String color = "white";
+   private String color = "silver";
    private int soundVolume = 42;
 
    @Override
