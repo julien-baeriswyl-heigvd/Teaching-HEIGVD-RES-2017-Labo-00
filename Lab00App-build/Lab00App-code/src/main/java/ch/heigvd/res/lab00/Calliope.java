@@ -1,7 +1,11 @@
 package ch.heigvd.res.lab00;
 
 /**
+ * Implementation of Calliope, according to specification CalliopeTest.java.
+ * Fixes #366
+ * 
  * @author Julien Baeriswyl
+ * @since  2017-03-06
  */
 public class Calliope implements IInstrument
 {
