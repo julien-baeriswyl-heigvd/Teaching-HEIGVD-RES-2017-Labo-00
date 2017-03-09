@@ -1,9 +1,9 @@
 package ch.heigvd.res.lab00;
 
-public class castanets implements IInstrument {
+public class Castanets implements IInstrument {
 
 
-	public castanets() 
+	public Castanets() 
 	{
 		volume = 10;
 		sound = "chiki chiki";
